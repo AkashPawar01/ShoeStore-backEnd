@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "nodenext",
+    "target": "ES2021",
+    "checkJs": true,
+    "allowJs": true
+  }
+}
+// [{
+// 	"resource": "/c:/Users/Akash/OneDrive/Desktop/Shoesto/backend/jsconfig.json",
+// 	"owner": "typescript",
+// 	"severity": 8,
+// 	"message": "Option 'module' must be set to 'NodeNext' when option 'moduleResolution' is set to 'NodeNext'.",
+// 	"source": "ts",
+// 	"startLineNumber": 1,
+// 	"startColumn": 1,
+// 	"endLineNumber": 1,
+// 	"endColumn": 2
+// }]
